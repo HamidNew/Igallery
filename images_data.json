@@ -1,0 +1,50 @@
+{
+    "Aloo Sabzi.jpg": {
+        "src": "images\\photos\\Aloo Sabzi.jpg",
+        "mtime": 1616311706.0,
+        "date": "",
+        "size": [
+            3114,
+            3712
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images\\thumbnails\\Aloo Sabzi.jpg",
+        "thumbnail_size": [
+            134,
+            160
+        ]
+    },
+    "Wheel Chips.jpg": {
+        "src": "images\\photos\\Wheel Chips.jpg",
+        "mtime": 1616311706.0,
+        "date": "",
+        "size": [
+            3120,
+            4160
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images\\thumbnails\\Wheel Chips.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "Wool Vase.jpg": {
+        "src": "images\\photos\\Wool Vase.jpg",
+        "mtime": 1616311800.0,
+        "date": "",
+        "size": [
+            2830,
+            3260
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images\\thumbnails\\Wool Vase.jpg",
+        "thumbnail_size": [
+            139,
+            160
+        ]
+    }
+}
